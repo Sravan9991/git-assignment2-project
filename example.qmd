@@ -1,0 +1,13 @@
+---
+title: "example.qmd"
+author: "Sravan Kumar Kapu Bejjala"
+format: html
+editor: visual
+---
+
+## Introduction 
+
+This is example file.
+
+This change is made on the main branch and will cause a conflict.
+
