@@ -9,5 +9,8 @@ editor: visual
 
 This is example file.
 
+<<<<<<< HEAD
 This change is made on the main branch and will cause a conflict.
+=======
+>>>>>>> testbranch
 
